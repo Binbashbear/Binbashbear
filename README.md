@@ -2,10 +2,8 @@
 - 👀 I’m interested in electronics (especially arduino/Esp), 
 programming, salmon and trout fishing, and electronic music.
 - During mating season my interests expand to include sex and technology, particularly teledildonics.
-- I have a passing interest in machine learning, both for practical uses such as robotics and modelling biology,
-and for making stupid meme videos.
+- I have a passing interest in machine learning, both for practical uses such as robotics and biological modelling.
 - 🌱 I’m currently learning programming, and humility.
-- "I'm too old for this shit"
 - 📫 Reach me in my cave, you can't miss it. I'm active mainly
 during spring and summer.
 
